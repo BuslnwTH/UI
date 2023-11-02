@@ -91,29 +91,29 @@
     "permission": "สิทธิ์การอนุญาต"
   },
   "root": {
-    "title": "Processing...",
-    "private": "Personal",
-    "logout": "Logout",
-    "logoutSuccess": "Logout successfully",
-    "logoutSuccessInfo": "See you later",
-    "logoutError": "Logout failed"
+    "title": "กำลังประมวลผล...",
+    "private": "ส่วนตัว",
+    "logout": "ออกจากระบบ",
+    "logoutSuccess": "ออกจากระบบเรียบร้อยแล้ว",
+    "logoutSuccessInfo": "แล้วค่อยพบกันใหม่",
+    "logoutError": "ออกจากระบบไม่สำเร็จ"
   },
   "login": {
-    "title": "Login",
-    "titleInfo": "Please use your MCSManager account to login.",
-    "account": "Username",
-    "passWord": "Password",
-    "forgotPassword": "Forgot password",
-    "forgotPasswordInfo": "If you are an ordinary user, please contact your system administrator. If you are the administrator, please backup and delete mcsmanager/web/data/Users folder to reinstall panel.",
-    "login": "Login",
-    "logging": "Logging in",
-    "isNull": "Username or Password cannot be empty.",
-    "errorCause": "Incorrect username or password.",
-    "logBackIn": "Try again",
-    "loginSuccess": "Success",
+    "title": "เข้าสู่ระบบ",
+    "titleInfo": "กรุณาใช้บัญชี MCSManager เพื่อเข้าสู่ระบบ",
+    "account": "ชื่อผู้ใช้",
+    "passWord": "รหัสผ่าน",
+    "forgotPassword": "ลืมรหัสผ่าน",
+    "forgotPasswordInfo": "หากคุณเป็นผู้ใช้ทั่วไป กรุณาติดต่อผู้ดูแลระบบ หรือ ถ้าหากคุณเป็นผู้ดูแลระบบ กรุณาสำรองข้อมูลในโฟลเดอร์ mcsmanager/web/data/Users และ ลบและติดตั้ง Panel ใหม่อีกครั้ง",
+    "login": "เข้าสู่ระบบ",
+    "logging": "กำลังเข้าสู่ระบบ",
+    "isNull": "ชื่อผู้ใช้หรือรหัสผ่านไม่สามารถเว้นว่างได้",
+    "errorCause": "ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง",
+    "logBackIn": "ลองใหม่อีกครั้ง",
+    "loginSuccess": "เข้าสู่ระบบสำเร็จ",
     "notify": {
-      "title": "This page doesn't work correctly.",
-      "message": "Unable to get user identity, possibly due to a banned account or network problem. Please try again."
+      "title": "หน้าต่างนี้ทำงานอย่างไม่ถูกต้อง",
+      "message": "ไม่สามารถดึงข้อมูลของผู้ใช้ได้ อาจจะเกิดจากบัญชีผู้ใช้นี้ถูกแบนหรือปัญหาด้านอินเทอร์เน็ต โปรดลองใหม่อีกครั้ง"
     }
   },
   "overview": {
